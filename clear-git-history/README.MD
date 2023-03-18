@@ -1,0 +1,1 @@
+# Removing sensitive data from a repository
